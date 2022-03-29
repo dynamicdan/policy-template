@@ -46,6 +46,10 @@ The below table must be updated when any significant editing takes place OR a ne
 
 This policy impacts and supports the below principles. It is important to know when these principles should influence behaviour and the decision making process.
 
+`If you have a central and controlled list of princples in another resource then include the below disclaimer (otherwise remove it). Further, deep link the ID to the corresponding item in the principles resource. This reduces navigation resistance.`
+
+Disclaimer: ALWAYS refer to the most up-to-date version of the principles here (LINK). The below details for each principle may be outdated and is provided solely for convenience.
+
 | Area | ID | Principle | Consequences of **not** supporting | Process/organisational impact to support the principle |
 | --- | --- | --- | --- | --- |
 | `Eg, Data Governance` | `DG001` | `Very short description` | `Eg, inconsistent and unreliable data causing process slowdown` | `Eg, Changes to data require review and approval prior to publishing updates.` |
