@@ -1,6 +1,6 @@
 # Guide for Use
 
-Use this policy when a light weight but mature approach is required.
+Use this policy when a lite weight but mature approach is required.
 
 Replace @NAME occurances with your policy name.
 
