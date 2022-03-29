@@ -14,13 +14,19 @@ Created from policy template: `template name and version`
 
 `why should I read this? What's in it for me, my team, my project, my success, the organisational success?`
 
-## Review Process
+## Pre-requisite Reading
+
+Please ensure you familiar with the below resources in order to understand this policy and its value.
+
+`list policies, resources, training etc. required 
+
+# Review Process
 
 `describe review process including frequency and involved parties`
 
 `describe approval process for new versions`
 
-### Review History
+## Review History
 
 | Date | Author | Changes and comments |
 | --- | --- | --- |
