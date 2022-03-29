@@ -11,7 +11,8 @@ Goal of this Repository
 ----
 
 Promote good policy writing and implementation of policies.
-Avoid continued propagation boring, long, useless policies that nobody wants to read and serve little value.
+
+Avoid continued propagation of boring, long and useless policies that nobody wants to read and serve little value.
 
 Using the Template
 -----
