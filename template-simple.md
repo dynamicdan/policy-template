@@ -8,7 +8,11 @@ Replace @NAME occurances with your policy name.
 
 # Policy: @NAME
 
+Created from policy template: `template name and version`
+
 ## Purpose and Need
+
+`why should I read this? What's in it for me, my team, my project, my success, the organisational success?`
 
 ## Review Process
 
