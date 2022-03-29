@@ -17,10 +17,13 @@ Replace @NAME occurances with your policy name.
 
 ### Last Review
 
-``Name: FIRST LAST``
-``Date: YYYY-MM-DD``
-``Changes and comments:``
-``SHORT SUMMARY``
+`Name: FIRST LAST`
+
+`Date: YYYY-MM-DD`
+
+`Changes and comments:`
+
+`SHORT SUMMARY`
 
 
 # Key Principles Supported
