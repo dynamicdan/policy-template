@@ -32,12 +32,14 @@ Please ensure you familiar with the below resources in order to understand this 
 
 `Describe approval process for new versions`
 
-### Review History
+### Revision and Approval History
 
-| Date | Author | Changes and comments |
-| --- | --- | --- |
-| `YYYY-MM-DD` | `FIRST LAST` | `SHORT SUMMARY` |
-| | |
+
+
+| Date | Author | Version | Changes and comments |
+| --- | --- | --- | --- |
+| `YYYY-MM-DD` | `FIRST LAST` | `Eg, 1.0-draft or 2.0-approved` | `SHORT SUMMARY` |
+| | | |
 
 
 ## Principles Supported by this Policy
