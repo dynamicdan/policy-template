@@ -22,7 +22,7 @@ Created from policy template: `template name and version`
 
 Please ensure you familiar with the below resources in order to understand this policy and its value.
 
-`list policies, resources, training etc. required 
+`list policies, resources, training etc. required`
 
 ## Review Process
 
