@@ -39,19 +39,19 @@ The below guidlines provide guidance to help support the policy. Each guideline 
 
 `list failsafes, quality gates, process adoption (and link to process flow diagram), which meetings require their agendas to reference this policy, contextual system reminders etc.`
 
-## 1 (`First Guideline`)
+## First Guideline
 
-## 2 (`Second Guideline`)
+## Second Guideline
 
 
 # Audit Process
 
 The following audit approaches have been defined in order to ensure that the policy is understood, supported and lived in daily activities.
 
-## 1 (`First audit system/approach/tool`)
+## First audit system/approach/tool
 
 `Describe the process and provide failsafe links to reports as applicable`
 
-## 2 (`Second audit system/approach/tool`)
+## Second audit system/approach/tool
 
 
