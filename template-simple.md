@@ -24,13 +24,15 @@ Please ensure you familiar with the below resources in order to understand this 
 
 `list policies, resources, training etc. required`
 
-## Review Process
+## Document Management
+
+### Review Process
 
 `Describe review process including frequency and involved parties`
 
 `Describe approval process for new versions`
 
-## Review History
+### Review History
 
 | Date | Author | Changes and comments |
 | --- | --- | --- |
