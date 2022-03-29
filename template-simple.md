@@ -34,12 +34,12 @@ Please ensure you familiar with the below resources in order to understand this 
 
 ### Revision and Approval History
 
-
+The below table must be updated when any significant editing takes place OR a new version of the policy is to be published. Fixing spelling mistakes and deadlinks etc. may not require a new entry in the below table.
 
 | Date | Author | Version | Changes and comments |
 | --- | --- | --- | --- |
 | `YYYY-MM-DD` | `FIRST LAST` | `Eg, 1.0-draft or 2.0-approved` | `SHORT SUMMARY` |
-| | | |
+| | | | |
 
 
 ## Principles Supported by this Policy
