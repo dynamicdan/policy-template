@@ -14,6 +14,10 @@ Created from policy template: `template name and version`
 
 `Why should I read this? What's in it for me, my team, my project, my success, the organisational success?`
 
+### Applicable Audience
+
+`List impacted teams, responsibilites, support roles etc`
+
 ## Pre-requisite Reading
 
 Please ensure you familiar with the below resources in order to understand this policy and its value.
