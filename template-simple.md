@@ -46,9 +46,9 @@ Please ensure you familiar with the below resources in order to understand this 
 
 This policy impacts and supports the below principles. It is important to know when these principles should influence behaviour and the decision making process.
 
-| Area | ID | Principle | Consequences of not supporting | Organisational impact |
+| Area | ID | Principle | Consequences of not supporting | Process and Organisational impact to support the principle |
 | --- | --- | --- | --- | --- |
-| | | | |
+| `Eg, Data Governance` | `DG001` | `Very short description` | `Eg, inconsistent and unreliable data causing process slowdown` | `Eg, Changes to data require review and approval prior to publishing updates.` |
 | | | | |
 
 ## Handrails to Encourage Policy Adoption
