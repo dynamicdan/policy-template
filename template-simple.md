@@ -12,7 +12,7 @@ Created from policy template: `template name and version`
 
 ## Purpose and Need
 
-`why should I read this? What's in it for me, my team, my project, my success, the organisational success?`
+`Why should I read this? What's in it for me, my team, my project, my success, the organisational success?`
 
 ## Pre-requisite Reading
 
@@ -22,9 +22,9 @@ Please ensure you familiar with the below resources in order to understand this 
 
 ## Review Process
 
-`describe review process including frequency and involved parties`
+`Describe review process including frequency and involved parties`
 
-`describe approval process for new versions`
+`Describe approval process for new versions`
 
 ## Review History
 
@@ -34,7 +34,7 @@ Please ensure you familiar with the below resources in order to understand this 
 | | |
 
 
-## Key Principles Supported
+## Principles Supported by this Policy
 
 This policy impacts and supports the below principles. It is important to know when these principles should influence behaviour and the decision making process.
 
@@ -43,15 +43,15 @@ This policy impacts and supports the below principles. It is important to know w
 | | | | |
 | | | | |
 
-## Guidelines - How do I support this policy?
+## Handrails to Encourage Policy Adoption
 
-The below guidlines provide guidance to help support the policy. Each guideline is relevant in a given context. It's important to apply critical thinking to decide which guides best align with your current situation.
+The below handrails serve to help support the policy with minimal effort. Each handrail is relevant in a given context. It's important to apply critical thinking to decide which ones best align with your current situation.
 
-`list failsafes, quality gates, process adoption (and link to process flow diagram), which meetings require their agendas to reference this policy, contextual system reminders etc.`
+`List failsafes, quality gates, process adoption (and link to process flow diagram), which meetings have had their agenda augmented, contextual system reminders of the policy etc.`
 
-### Guideline 1
+### Handrail 1
 
-### Guideline 2
+### Handrail 2
 
 ## Measuing Policy Effectiveness
 
@@ -59,10 +59,12 @@ The below aspects can be used to obtain both objective and subjective understand
 
 ### Desired Outcome 1
 
+`Describe the desired outcome`
+
+`Describe the measurement strategy`
+
 ### Desired Outcome 2
 
-
-`list key metrics (idally those that are measurable) that help expose if this policy is driving the desired outcomes`
 
 ## Audit Process
 
@@ -70,8 +72,12 @@ The following audit approaches have been defined in order to ensure that the pol
 
 ### First audit system/approach/tool
 
+Type: `manual or automated`
+
 `Describe the process and provide failsafe links to reports as applicable`
 
 ### Second audit system/approach/tool
+
+Type: `manual or automated`
 
 
