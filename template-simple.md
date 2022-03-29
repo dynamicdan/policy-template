@@ -16,7 +16,7 @@ Replace @NAME occurances with your policy name.
 
 `describe approval process for new versions`
 
-### Last Review
+### Review History
 
 | Date | Author | Changes and comments |
 | --- | --- | --- |
@@ -35,22 +35,23 @@ This policy impacts and supports the below principles. It is important to know w
 
 # Guidelines - How do I support this policy?
 
-## `First Guideline` 
-
-## `Second Guideline`
-
-# How the Policy is supported
+The below guidlines provide guidance to help support the policy. Each guideline is relevant in a given context. It's important to apply critical thinking to decide which guides best align with your current situation.
 
 `list failsafes, quality gates, process adoption (and link to process flow diagram), which meetings require their agendas to reference this policy, contextual system reminders etc.`
+
+## 1 (`First Guideline`)
+
+## 2 (`Second Guideline`)
+
 
 # Audit Process
 
 The following audit approaches have been defined in order to ensure that the policy is understood, supported and lived in daily activities.
 
-## `First audit system/approach/tool`
+## 1 (`First audit system/approach/tool`)
 
 `Describe the process and provide failsafe links to reports as applicable`
 
-## `Second audit system/approach/tool`
+## 2 (`Second audit system/approach/tool`)
 
 
