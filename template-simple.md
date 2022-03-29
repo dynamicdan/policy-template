@@ -59,7 +59,7 @@ The below handrails serve to help support the policy with minimal effort. Each h
 
 ### Handrail 2
 
-## Measuing Policy Effectiveness
+## Measurement Strategy for Policy Effectiveness
 
 The below aspects can be used to obtain both objective and subjective understanding of how well this policy is positively impacting the organisation.
 
