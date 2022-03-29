@@ -49,10 +49,20 @@ The below guidlines provide guidance to help support the policy. Each guideline 
 
 `list failsafes, quality gates, process adoption (and link to process flow diagram), which meetings require their agendas to reference this policy, contextual system reminders etc.`
 
-### First Guideline
+### Guideline 1
 
-### Second Guideline
+### Guideline 2
 
+## Measuing Policy Effectiveness
+
+The below aspects can be used to obtain both objective and subjective understanding of how well this policy is positively impacting the organisation.
+
+### Desired Outcome 1
+
+### Desired Outcome 2
+
+
+`list key metrics (idally those that are measurable) that help expose if this policy is driving the desired outcomes`
 
 ## Audit Process
 
